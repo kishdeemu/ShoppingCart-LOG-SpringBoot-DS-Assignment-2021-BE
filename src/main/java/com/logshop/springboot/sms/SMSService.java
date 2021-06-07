@@ -11,7 +11,6 @@ import com.twilio.type.PhoneNumber;
 
 @Component
 public class SMSService {
-
 	    
 	    private final String ACCOUNT_SID = "AC241492985748838bc87183ed17c92d25";
 
